@@ -1,5 +1,8 @@
 # 💫 About Me:
-🖥️ Gamer & Developer <br>🐑 Just a sheep. <br>🔋 My social battery level: 0% <br>🇹🇼 Republic of China (Taiwan)
+### 🖥️ Gamer & Developer
+### 🐑 Just a sheep. 
+### 🔋 My social battery level: 0% 
+### 🇹🇼 Republic of China (Taiwan)
 
 
 ## 🌐 Socials:
