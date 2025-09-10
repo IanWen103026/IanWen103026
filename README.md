@@ -9,7 +9,6 @@ A student, gamer, and developer passionate about coding and tech.
 * 🎮 Gamer & Developer  
 * 🐑 A sheep  
 * 🌏 Taiwanese  
-* 🧠 Experienced in Competitive Programming, Data Structures, and Algorithms  
 
 ---
 
@@ -26,6 +25,9 @@ AWS, Google Cloud, Cloudflare, Nginx, Docker, GitHub Actions
 
 **Databases**  
 MySQL, SQLite, Firebase  
+
+**Others**
+Competitive Programming, Data Structures, and Algorithms  
 
 ---
 
